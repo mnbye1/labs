@@ -19,3 +19,65 @@ E:\visual cods\c#\main labs\labs\SaetovAutoservice\SaetovAutoservice\obj\Debug\S
 E:\visual cods\c#\main labs\labs\SaetovAutoservice\SaetovAutoservice\obj\Debug\AddEditPage.baml
 E:\visual cods\c#\main labs\labs\SaetovAutoservice\SaetovAutoservice\obj\Debug\ServicePage.baml
 E:\visual cods\c#\main labs\labs\SaetovAutoservice\SaetovAutoservice\obj\Debug\App.baml
+D:\3 курс\исп 31\саетов\SaetovAutoservice\SaetovAutoservice\obj\Debug\SaetovAutoservice.csprojAssemblyReference.cache
+D:\3 курс\исп 31\саетов\SaetovAutoservice\SaetovAutoservice\obj\Debug\AddEditPage.g.cs
+D:\3 курс\исп 31\саетов\SaetovAutoservice\SaetovAutoservice\obj\Debug\MainWindow.g.cs
+D:\3 курс\исп 31\саетов\SaetovAutoservice\SaetovAutoservice\obj\Debug\App.g.cs
+D:\3 курс\исп 31\саетов\SaetovAutoservice\SaetovAutoservice\obj\Debug\SaetovAutoservice_Content.g.cs
+D:\3 курс\исп 31\саетов\SaetovAutoservice\SaetovAutoservice\obj\Debug\SaetovAutoservice_MarkupCompile.cache
+D:\3 курс\исп 31\саетов\SaetovAutoservice\SaetovAutoservice\obj\Debug\SaetovAutoservice_MarkupCompile.lref
+D:\3 курс\исп 31\саетов\SaetovAutoservice\SaetovAutoservice\obj\Debug\SaetovAutoservice.exe
+D:\3 курс\исп 31\саетов\SaetovAutoservice\SaetovAutoservice\obj\Debug\SaetovAutoservice.pdb
+D:\3 курс\исп 31\саетов\SaetovAutoservice\SaetovAutoservice\obj\Debug\ServicePage.g.cs
+D:\3 курс\исп 31\саетов\SaetovAutoservice\SaetovAutoservice\bin\Debug\SaetovAutoservice.exe.config
+D:\3 курс\исп 31\саетов\SaetovAutoservice\SaetovAutoservice\bin\Debug\SaetovAutoservice.exe
+D:\3 курс\исп 31\саетов\SaetovAutoservice\SaetovAutoservice\bin\Debug\SaetovAutoservice.pdb
+D:\3 курс\исп 31\саетов\SaetovAutoservice\SaetovAutoservice\bin\Debug\EntityFramework.dll
+D:\3 курс\исп 31\саетов\SaetovAutoservice\SaetovAutoservice\bin\Debug\EntityFramework.SqlServer.dll
+D:\3 курс\исп 31\саетов\SaetovAutoservice\SaetovAutoservice\bin\Debug\EntityFramework.xml
+D:\3 курс\исп 31\саетов\SaetovAutoservice\SaetovAutoservice\bin\Debug\EntityFramework.SqlServer.xml
+D:\3 курс\исп 31\саетов\SaetovAutoservice\SaetovAutoservice\bin\Debug\ru\EntityFramework.resources.dll
+D:\3 курс\исп 31\саетов\SaetovAutoservice\SaetovAutoservice\obj\Debug\App.baml
+D:\3 курс\исп 31\саетов\SaetovAutoservice\SaetovAutoservice\obj\Debug\AddEditPage.baml
+D:\3 курс\исп 31\саетов\SaetovAutoservice\SaetovAutoservice\obj\Debug\MainWindow.baml
+D:\3 курс\исп 31\саетов\SaetovAutoservice\SaetovAutoservice\obj\Debug\ServicePage.baml
+D:\3 курс\исп 31\саетов\SaetovAutoservice\SaetovAutoservice\obj\Debug\SaetovAutoservice.g.resources
+D:\3 курс\исп 31\саетов\SaetovAutoservice\SaetovAutoservice\obj\Debug\SaetovAutoservice.Properties.Resources.resources
+D:\3 курс\исп 31\саетов\SaetovAutoservice\SaetovAutoservice\obj\Debug\SaetovAutoservice.csproj.GenerateResource.cache
+D:\3 курс\исп 31\саетов\SaetovAutoservice\SaetovAutoservice\obj\Debug\SaetovAutoservice.csproj.CoreCompileInputs.cache
+D:\3 курс\исп 31\саетов\SaetovAutoservice\SaetovAutoservice\obj\Debug\SaetovAutoservice.csproj.CopyComplete
+C:\Users\bulat\OneDrive\Рабочий стол\SaetovAutoservice\SaetovAutoservice\bin\Debug\SaetovAutoservice.exe.config
+C:\Users\bulat\OneDrive\Рабочий стол\SaetovAutoservice\SaetovAutoservice\bin\Debug\SaetovAutoservice.exe
+C:\Users\bulat\OneDrive\Рабочий стол\SaetovAutoservice\SaetovAutoservice\bin\Debug\SaetovAutoservice.pdb
+C:\Users\bulat\OneDrive\Рабочий стол\SaetovAutoservice\SaetovAutoservice\bin\Debug\EntityFramework.dll
+C:\Users\bulat\OneDrive\Рабочий стол\SaetovAutoservice\SaetovAutoservice\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bulat\OneDrive\Рабочий стол\SaetovAutoservice\SaetovAutoservice\bin\Debug\EntityFramework.xml
+C:\Users\bulat\OneDrive\Рабочий стол\SaetovAutoservice\SaetovAutoservice\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bulat\OneDrive\Рабочий стол\SaetovAutoservice\SaetovAutoservice\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\bulat\OneDrive\Рабочий стол\SaetovAutoservice\SaetovAutoservice\obj\Debug\SaetovAutoservice.csproj.AssemblyReference.cache
+C:\Users\bulat\OneDrive\Рабочий стол\SaetovAutoservice\SaetovAutoservice\obj\Debug\SaetovAutoservice.csproj.SuggestedBindingRedirects.cache
+C:\Users\bulat\OneDrive\Рабочий стол\SaetovAutoservice\SaetovAutoservice\obj\Debug\AddEditPage.g.cs
+C:\Users\bulat\OneDrive\Рабочий стол\SaetovAutoservice\SaetovAutoservice\obj\Debug\MainWindow.g.cs
+C:\Users\bulat\OneDrive\Рабочий стол\SaetovAutoservice\SaetovAutoservice\obj\Debug\ServicePage.g.cs
+C:\Users\bulat\OneDrive\Рабочий стол\SaetovAutoservice\SaetovAutoservice\obj\Debug\App.g.cs
+C:\Users\bulat\OneDrive\Рабочий стол\SaetovAutoservice\SaetovAutoservice\obj\Debug\SaetovAutoservice_Content.g.cs
+C:\Users\bulat\OneDrive\Рабочий стол\SaetovAutoservice\SaetovAutoservice\obj\Debug\SaetovAutoservice_MarkupCompile.cache
+C:\Users\bulat\OneDrive\Рабочий стол\SaetovAutoservice\SaetovAutoservice\obj\Debug\SaetovAutoservice_MarkupCompile.lref
+C:\Users\bulat\OneDrive\Рабочий стол\SaetovAutoservice\SaetovAutoservice\obj\Debug\App.baml
+C:\Users\bulat\OneDrive\Рабочий стол\SaetovAutoservice\SaetovAutoservice\obj\Debug\AddEditPage.baml
+C:\Users\bulat\OneDrive\Рабочий стол\SaetovAutoservice\SaetovAutoservice\obj\Debug\MainWindow.baml
+C:\Users\bulat\OneDrive\Рабочий стол\SaetovAutoservice\SaetovAutoservice\obj\Debug\ServicePage.baml
+C:\Users\bulat\OneDrive\Рабочий стол\SaetovAutoservice\SaetovAutoservice\obj\Debug\SaetovAutoservice.g.resources
+C:\Users\bulat\OneDrive\Рабочий стол\SaetovAutoservice\SaetovAutoservice\obj\Debug\SaetovAutoservice.Properties.Resources.resources
+C:\Users\bulat\OneDrive\Рабочий стол\SaetovAutoservice\SaetovAutoservice\obj\Debug\SaetovAutoservice.csproj.GenerateResource.cache
+C:\Users\bulat\OneDrive\Рабочий стол\SaetovAutoservice\SaetovAutoservice\obj\Debug\SaetovAutoservice.csproj.CoreCompileInputs.cache
+C:\Users\bulat\OneDrive\Рабочий стол\SaetovAutoservice\SaetovAutoservice\obj\Debug\SaetovAutoservice.csproj.CopyComplete
+C:\Users\bulat\OneDrive\Рабочий стол\SaetovAutoservice\SaetovAutoservice\obj\Debug\SaetovAutoservice.exe
+C:\Users\bulat\OneDrive\Рабочий стол\SaetovAutoservice\SaetovAutoservice\obj\Debug\SaetovAutoservice.pdb
+E:\visual cods\c#\main labs\labs\SaetovAutoservice\SaetovAutoservice\bin\Debug\EntityFramework.dll
+E:\visual cods\c#\main labs\labs\SaetovAutoservice\SaetovAutoservice\bin\Debug\EntityFramework.SqlServer.dll
+E:\visual cods\c#\main labs\labs\SaetovAutoservice\SaetovAutoservice\bin\Debug\EntityFramework.xml
+E:\visual cods\c#\main labs\labs\SaetovAutoservice\SaetovAutoservice\bin\Debug\EntityFramework.SqlServer.xml
+E:\visual cods\c#\main labs\labs\SaetovAutoservice\SaetovAutoservice\bin\Debug\ru\EntityFramework.resources.dll
+E:\visual cods\c#\main labs\labs\SaetovAutoservice\SaetovAutoservice\obj\Debug\SaetovAutoservice_Content.g.cs
+E:\visual cods\c#\main labs\labs\SaetovAutoservice\SaetovAutoservice\obj\Debug\SaetovAutoservice.csproj.CopyComplete

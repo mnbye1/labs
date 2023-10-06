@@ -23,6 +23,8 @@ namespace SaetovAutoservice
         public ServicePage()
         {
             InitializeComponent();
+            var currentServices = saetov_autoserviceEntities.GetContext().SERVICE.ToList();
+            ServiceListView.ItemsSource = currentServices;
         }
         
 
